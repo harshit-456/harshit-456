@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshit_sharma
+- 👋 Hi, I’m Harshit Sharma
 
 
 <!---
