@@ -1,8 +1,14 @@
 
 <div align="center">
-<h2>  नमस्कार(Namaskar) 🙏, I am [Harshit Sharma]! <img src="https://github.com/Harshit/Harshit/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2>  नमस्कार(Namaskar) 🙏, I am [Harshit Sharma]!></h2>
 </div>
 
+<div align="center" width="50">
+  
+
+
+![messagif](https://user-images.githubusercontent.com/85012485/212469522-46cf7a05-8083-43c5-96c3-ed1e3ec25242.gif)
+</div> 
 I'm a software developer/enthusiast coder. I'm from India, living in Agra, Uttar Pradesh. I am experienced in project development with a range of technologies including Java,Python and Android.
 
 <div align="center">
